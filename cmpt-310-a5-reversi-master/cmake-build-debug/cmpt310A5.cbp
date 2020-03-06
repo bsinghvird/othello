@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cmpt310A5"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cmpt310A5">
+				<Option output="C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmake-build-debug/cmpt310A5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 cmpt310A5"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cmpt310A5/fast">
+				<Option output="C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmake-build-debug/cmpt310A5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 cmpt310A5/fast"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/main.cpp">
+			<Option target="cmpt310A5"/>
+		</Unit>
+		<Unit filename="C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/players/AIPlayers/heuristicAIPlayer.h">
+			<Option target="cmpt310A5"/>
+		</Unit>
+		<Unit filename="C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/players/AIPlayers/monteCarloAI.h">
+			<Option target="cmpt310A5"/>
+		</Unit>
+		<Unit filename="C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/players/AIPlayers/positionalStrategyAIPlayer.h">
+			<Option target="cmpt310A5"/>
+		</Unit>
+		<Unit filename="C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/players/AIPlayers/randomAI.h">
+			<Option target="cmpt310A5"/>
+		</Unit>
+		<Unit filename="C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/players/humanPlayers/humanPlayer.h">
+			<Option target="cmpt310A5"/>
+		</Unit>
+		<Unit filename="C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/reversiLogic/board.h">
+			<Option target="cmpt310A5"/>
+		</Unit>
+		<Unit filename="C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/reversiLogic/gameLogic.h">
+			<Option target="cmpt310A5"/>
+		</Unit>
+		<Unit filename="C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/reversiLogic/gameStates.h">
+			<Option target="cmpt310A5"/>
+		</Unit>
+		<Unit filename="C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/reversiLogic/reversi.h">
+			<Option target="cmpt310A5"/>
+		</Unit>
+		<Unit filename="C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/reversiLogic/tiles.h">
+			<Option target="cmpt310A5"/>
+		</Unit>
+		<Unit filename="C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,3 @@
+C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmake-build-debug/CMakeFiles/cmpt310A5.dir
+C:/Users/bsing/Desktop/a5/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmpt-310-a5-reversi-master/cmake-build-debug/CMakeFiles/edit_cache.dir
